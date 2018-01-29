@@ -1,1 +1,1 @@
-# PACT-Password-Analysis-and-Cracking-Tool-
+# PACT-Password-Analysis-and-Cracking-Tool
